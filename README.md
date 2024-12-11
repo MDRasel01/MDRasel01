@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Wordpress Theme Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Wordpress Developement(Theme and Plugin)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
