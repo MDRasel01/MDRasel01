@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drasel01" alt="drasel01" /></a> </p>
 
-- 🌱 I’m currently learning **Wordpress Theme Development**
+- 🌱 I’m currently learning **Wordpress Plugin Development**
 
 - 💬 Ask me about **Wordpress Developement(Theme and Plugin)**
 
